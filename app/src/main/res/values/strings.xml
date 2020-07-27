@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">High Low Game</string>
+    <string name="instructions">Guess a number between 0 and %d.</string>
+    <plurals name="tries_left">
+        <item quantity="one">You have %d try left.</item>
+        <item quantity="other">You have %d tries left.</item>
+    </plurals>
+    <string name="play_again_message">Click the button to play again.</string>
+    <string name="num_tries">Number of tries: %d</string>
+    <string name="input_hint">Enter a guess here.</string>
+    <string name="invalid_guess">Invalid guess. Must be in range (0, %d).</string>
+    <string name="correct_guess">Correct guess!</string>
+    <string name="high_guess">Your guess is too high.</string>
+    <string name="low_guess">Your guess is too low.</string>
+    <string name="loss">You are out of tries.</string>
+    <string name="guess_btn">Guess</string>
+    <string name="play_again_btn">Play Again</string>
+</resources>
